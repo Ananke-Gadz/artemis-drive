@@ -20,9 +20,10 @@ This project aim's to be a nicer interface to Google Drive that resolve the foll
 | Product owner |   	              |
 | Developper  	| Tycho Tatitscheff |
 
-### Sucess
+### Success
 
-*TODO*
+* First public test September 2016
+* Quickly adopted for campus leader team (90% of those peaople use it instead of raw Google Drive)
 
 --------------------------------------
 # Technical Documentation
